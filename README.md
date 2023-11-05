@@ -1,1 +1,1 @@
-# Grammer_correcter_clone
+# Grammer_corrector_terminal
